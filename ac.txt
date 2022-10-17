@@ -1,0 +1,3 @@
+﻿Mouse,40.50
+Iphone,9060
+Monitor,700.70
